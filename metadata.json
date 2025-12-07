@@ -1,0 +1,8 @@
+{
+  "name": "Học cùng Thầy Hùng Online !",
+  "description": "Ứng dụng trợ lý học tập AI thông minh, giúp giải bài tập và giải thích kiến thức cho học sinh.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
